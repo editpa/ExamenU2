@@ -12,6 +12,9 @@ for nombre in nombres:
 
 
 
+
+
+
 pila_nombres_ordenados = []
 
 while not cola_nombres.empty():
