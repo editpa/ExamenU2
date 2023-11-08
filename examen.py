@@ -7,14 +7,6 @@ for nombre in nombres:
     cola_nombres.put(nombre)
 
 
-
-
-
-
-
-
-
-
 pila_nombres_ordenados = []
 
 while not cola_nombres.empty():
